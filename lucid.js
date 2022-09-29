@@ -1,26 +1,3 @@
-// Hamburger Bar Menu
-
-// function myFunction() {
-//   var x = document.getElementById("my-links");
-//   var mobileHeader = document.querySelector(".mobile-header");
-//   if (x.style.display === "block") {
-//     x.style.display = "none";
-//     mobileHeader.style.height = "40px";
-//   } else {
-//     x.style.display = "block";
-//     mobileHeader.style.height = "250px";
-//   }
-// }
-
-// function myHamburger() {
-//   let x = document.getElementById("myLinks");
-//   if (x.style.display === "block") {
-//     x.style.display = "none";
-//   } else {
-//     x.style.display = "block";
-//   }
-// }
-
 // Button Function
 
 function myFunction() {
